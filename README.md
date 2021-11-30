@@ -6,8 +6,7 @@ This is an official tutorial for Arduino platform from Space Technology Lab, Tam
 - Communicate your idea and present your works with others
 
 ## Authors:
-[Mark Chen](@MarkCodering)
-[Seailsso Cute](@SealissoCute)
+[Mark Chen](@MarkCodering), [Seailsso Cute](@SealissoCute)
 
 ## Outline
 - [Introduction to Arduino Platform](#Introduction-to-Arduino-Platform)
